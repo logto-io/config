@@ -37,7 +37,7 @@
     "stylelint-scss": "^6.2.1"
   },
   "devDependencies": {
-    "@types/eslint": "^8.40.2",
+    "@types/eslint": "^9.0.0",
     "eslint": "^8.57.0",
     "postcss": "^8.4.24",
     "prettier": "^3.0.0",
