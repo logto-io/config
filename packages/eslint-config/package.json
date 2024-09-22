@@ -36,7 +36,7 @@
     "@typescript-eslint/parser": "^7.0.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-config-xo": "^0.44.0",
-    "eslint-config-xo-typescript": "^4.0.0",
+    "eslint-config-xo-typescript": "^7.0.0",
     "eslint-import-resolver-typescript": "^3.6.1",
     "eslint-plugin-consistent-default-export-name": "^0.0.15",
     "eslint-plugin-eslint-comments": "^3.2.0",
